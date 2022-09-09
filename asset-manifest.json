@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stripes/static/css/main.9c0e5149.chunk.css",
+    "main.js": "/stripes/static/js/main.86696989.chunk.js",
+    "main.js.map": "/stripes/static/js/main.86696989.chunk.js.map",
+    "runtime-main.js": "/stripes/static/js/runtime-main.0dba3a1d.js",
+    "runtime-main.js.map": "/stripes/static/js/runtime-main.0dba3a1d.js.map",
+    "static/js/2.e1e77988.chunk.js": "/stripes/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/stripes/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/stripes/index.html",
+    "precache-manifest.a75f9ca936cb6df3c9bb3aa05645747c.js": "/stripes/precache-manifest.a75f9ca936cb6df3c9bb3aa05645747c.js",
+    "service-worker.js": "/stripes/service-worker.js",
+    "static/css/main.9c0e5149.chunk.css.map": "/stripes/static/css/main.9c0e5149.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/stripes/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stripes/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/stripes/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/stripes/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dba3a1d.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.9c0e5149.chunk.css",
+    "static/js/main.86696989.chunk.js"
+  ]
+}
