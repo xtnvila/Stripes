@@ -4,25 +4,25 @@ const sublinks = [
   {
     page: 'products',
     links: [
-      { label: 'payment', icon: <FaCreditCard />, url: '/' },
-      { label: 'terminal', icon: <FaCreditCard />, url: '/' },
-      { label: 'connect', icon: <FaCreditCard />, url: '/' },
+      { label: 'payment', icon: <FaCreditCard />, url: '/stripes/' },
+      { label: 'terminal', icon: <FaCreditCard />, url: '/stripes/' },
+      { label: 'connect', icon: <FaCreditCard />, url: '/stripes/' },
     ],
   },
   {
     page: 'developers',
     links: [
-      { label: 'plugins', icon: <FaBook />, url: '/' },
-      { label: 'libraries', icon: <FaBook />, url: '/' },
-      { label: 'help', icon: <FaBook />, url: '/' },
-      { label: 'billing', icon: <FaBook />, url: '/' },
+      { label: 'plugins', icon: <FaBook />, url: '/stripes/' },
+      { label: 'libraries', icon: <FaBook />, url: '/stripes/' },
+      { label: 'help', icon: <FaBook />, url: '/stripes/' },
+      { label: 'billing', icon: <FaBook />, url: '/stripes/' },
     ],
   },
   {
     page: 'company',
     links: [
-      { label: 'about', icon: <FaBriefcase />, url: '/' },
-      { label: 'customers', icon: <FaBriefcase />, url: '/' },
+      { label: 'about', icon: <FaBriefcase />, url: '/stripes/' },
+      { label: 'customers', icon: <FaBriefcase />, url: '/stripes/' },
     ],
   },
 ];
